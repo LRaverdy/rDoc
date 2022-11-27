@@ -1,0 +1,88 @@
+body, htlm {
+    background-color: #121212;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+h3 {
+    margin-left: 3rem
+}
+
+.card{
+    background-color: #161616;
+    border-color: #333232;
+    border-radius: 10px;
+    width: 90%;
+    margin-bottom: 3rem;
+}
+
+
+.graph{
+    width: 80%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.hljs.language-python{
+    background-color: #313030;
+    border-radius: 10px;
+    width: 80%;
+    color: lightgrey;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hljs-string{
+    color: red;
+}
+
+.hljs-number{
+    color: green;
+}
+
+/* dark dropdown */
+
+.Select-control{
+    background-color: #161616;
+    color: lightgrey;
+    width: 120px;
+}
+
+.Select-menu-outer{
+    background-color: #161616;
+    color: lightgrey;
+    width: 120px;
+}
+
+.Select-value{
+    background-color: #161616;
+    color: lightgrey!important;
+}
+
+.Select-value-label{
+    background-color: #161616;
+    color: lightgrey!important;
+}
+
+.Select-input{
+    color: red;
+}
+
+/* NAVBAR */
+
+.bg-light{
+    background-color: black!important;
+}
+
+/* header */
+.mb-5 {
+    margin-bottom: 0rem!important;
+    height: 60px!important;
+}
+
+
